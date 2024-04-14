@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&text=WEB%20STUDY&color=gradient&customColorList=27&stroke=000000&strokeWidth=0.5&height=200&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=egg&color=FFBF00&fontColor=000000&stroke=FFFFFF&strokeWidth=0.5&height=200&section=header" width="100%"/>
 
 
 Hi there! I'm dreaming of becoming an expert in recommendation systems. Now, I am pursuing a Master's degree in Data Science at the Graduate School of Kookmin University, under the guidance of Prof. Je-hyuk Lee. I'm interested in providing recommendation services. I also believe that understanding web development knowledge, in addition to artificial intelligence and data science skills, can be helpful for collaborating with web developers in the future. Therefore, I'm organizing my studies on web development, including backend and frontend, on this account. If you're curious about my academic background, click [[jayarnim]](https://github.com/jayarnim).
@@ -37,4 +37,4 @@ Hi there! I'm dreaming of becoming an expert in recommendation systems. Now, I a
 
 </br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=egg&color=FFBF00&height=200&section=footer" width="100%"/>
