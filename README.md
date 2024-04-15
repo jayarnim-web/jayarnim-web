@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=egg&text=class%20jayarnim(web):&color=FFBF00&fontColor=000000&stroke=FFFFFF&strokeWidth=0.5&height=200&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=egg&text=class%20web(jayarnim):&color=FFBF00&fontColor=000000&stroke=FFFFFF&strokeWidth=0.5&height=200&section=header" width="100%"/>
 
 
 ### Hi, there 👋
